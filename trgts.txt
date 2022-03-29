@@ -1,3 +1,5 @@
+https://rusinskiimir.ru
+https://lug-info.com
 https://qiwi.com
 tcp://91.232.230.50:443
 tcp://91.232.230.126:443
