@@ -19,9 +19,6 @@ https://websbor.gks.ru/online
 https://online.gks.ru/online
 https://updateids2.infotecs.ru
 https://kontur.ru
-https://auth.kontur.ru/
-https://ofd.kontur.ru
-https://kontur.ru
 https://auth.kontur.ru
 https://ofd.kontur.ru
 https://www.kontur-extern.ru
